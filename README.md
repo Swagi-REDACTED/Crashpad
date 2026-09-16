@@ -3,6 +3,7 @@ Small windows exception handler, programmed in CPP.
 
 # Ready to use
 Simply include into your project and call Diagnostics::Initialize() from your main thread.
+For a detailed Stacktrace ensure to compile for debug and keep the PDB next to the EXE(I havent tried it within a dll so as for which im not sure).
 
 ## Usage Examples
 
